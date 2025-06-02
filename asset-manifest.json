@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/line_gamehub_build/static/css/main.e0f2de0b.css",
-    "main.js": "/line_gamehub_build/static/js/main.2e551619.js",
+    "main.js": "/line_gamehub_build/static/js/main.1fb31451.js",
     "static/js/453.589b9bb9.chunk.js": "/line_gamehub_build/static/js/453.589b9bb9.chunk.js",
     "static/media/Bulk_Scratch_Ticket.gif": "/line_gamehub_build/static/media/Bulk_Scratch_Ticket.27839f57b9a144e4affa.gif",
     "static/media/FSL Games Scratch Animation-01.png": "/line_gamehub_build/static/media/FSL Games Scratch Animation-01.877c4524925391a03ed6.png",
@@ -145,6 +145,7 @@
     "static/media/Friends_selected.svg": "/line_gamehub_build/static/media/Friends_selected.cc5f3985ebd0dc69151b8e83ea341e91.svg",
     "static/media/done_icon.svg": "/line_gamehub_build/static/media/done_icon.f30753a79be7ea5df3c46660b8fdc5be.svg",
     "static/media/ID_selected.svg": "/line_gamehub_build/static/media/ID_selected.80df71eef26c80c0b5acbefca55f7f33.svg",
+    "index.html": "/line_gamehub_build/index.html",
     "static/media/ID_normal.svg": "/line_gamehub_build/static/media/ID_normal.8de4078e74c3765116c37b2f6f95fa50.svg",
     "static/media/ticket.svg": "/line_gamehub_build/static/media/ticket.c8a052d29411b7224614107b13b307b4.svg",
     "static/media/Mooar.svg": "/line_gamehub_build/static/media/Mooar.b30bb6afa5a64efcfd2b5f23ac413fa3.svg",
@@ -152,7 +153,6 @@
     "static/media/Home_selected.svg": "/line_gamehub_build/static/media/Home_selected.4e5b60e5d0a3e7386b437ec288372478.svg",
     "static/media/friends_icon.svg": "/line_gamehub_build/static/media/friends_icon.e276eafc660b63f844612d6eac25b0ad.svg",
     "static/media/particle.svg": "/line_gamehub_build/static/media/particle.8164d278afeea212b20f98588d841a35.svg",
-    "index.html": "/line_gamehub_build/index.html",
     "static/media/Market_selected.svg": "/line_gamehub_build/static/media/Market_selected.24c783dd7b204ae2ab1f8674d5ba5335.svg",
     "static/media/Market_normal.svg": "/line_gamehub_build/static/media/Market_normal.cd6a82f3a623026b6404ef9349caac1d.svg",
     "static/media/energy.svg": "/line_gamehub_build/static/media/energy.69c30938ef1059e2f07690c27f221f1e.svg",
@@ -172,11 +172,11 @@
     "static/media/circle_dotted.svg": "/line_gamehub_build/static/media/circle_dotted.158f789cd2a728046938f0b8826c00e5.svg",
     "static/media/circle.svg": "/line_gamehub_build/static/media/circle.33affa4dee55de7c7ea5f575dc6c5ac0.svg",
     "main.e0f2de0b.css.map": "/line_gamehub_build/static/css/main.e0f2de0b.css.map",
-    "main.2e551619.js.map": "/line_gamehub_build/static/js/main.2e551619.js.map",
+    "main.1fb31451.js.map": "/line_gamehub_build/static/js/main.1fb31451.js.map",
     "453.589b9bb9.chunk.js.map": "/line_gamehub_build/static/js/453.589b9bb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0f2de0b.css",
-    "static/js/main.2e551619.js"
+    "static/js/main.1fb31451.js"
   ]
 }
